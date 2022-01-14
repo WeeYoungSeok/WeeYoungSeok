@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <div style="width:100%; margin:0 auto; display: flex;">
   <div>
-  <img style="width:49%;" src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok"/>
   </div>
   <div>
-  <img style="width:49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight"/>
   </div>
 </div>
 
