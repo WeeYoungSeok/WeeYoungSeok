@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-  <div style="display: flex;">
+  <div style="justify-content: space-between;">
     <div>
       gd
     </div>
