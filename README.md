@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWeeYoungSeok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 
-<div style="width:100%; margin:0 auto; height=50%">
+<div style="width:100%; margin:0 auto; display: flex;">
   <img style="width:49%;" src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok"/>
   <img style="width:49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight"/>
 </div>
