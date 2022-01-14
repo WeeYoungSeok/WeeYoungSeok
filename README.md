@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <div align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok" width=400 height=100%/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" height=100%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" width=400 height=100%/>
 </div>
 
