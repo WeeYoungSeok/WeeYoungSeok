@@ -24,3 +24,14 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight"/>
 </div>
     </div>
+
+
+<div style="border: 1px solid gold; float: left; width: 33%;">
+첫번째 영역
+</div>
+<div style="border: 1px solid red; float: left; width: 33%;">
+두번째 영역
+</div>
+<div style="border: 1px solid blue; float: left; width: 33%;">
+세번째 영역
+</div>
