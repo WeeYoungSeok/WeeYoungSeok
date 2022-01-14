@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight"/>
   </div>
 </div>
