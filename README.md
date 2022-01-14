@@ -22,7 +22,11 @@ Here are some ideas to get you started:
     overflow:hidden;
     margin:0 auto;">
   <div style="display: flex; align-items: flex-start;">
-    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok" width=45%/>
-    <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" width=45%/>
+    <img style="width:100%;
+    height:100%;
+    object-fit:cover;" src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok"/>
+    <img style="width:100%;
+    height:100%;
+    object-fit:cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight"/>
   </div>
 </div>
