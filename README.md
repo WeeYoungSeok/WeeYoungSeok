@@ -17,15 +17,19 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWeeYoungSeok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 
-<div align="center">
-  <div style="justify-content: space-between;">
-    <div>
-      gd
-    </div>
-    <div>
-      bd
-    </div>
-  </div>
+<div class="father" style="display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:100vh;">
+  <div class="box" style="background-color: red;
+    width: 50px;
+    height: 50px;"></div>
+  <div class="box" style="background-color: red;
+    width: 50px;
+    height: 50px;"></div>
+  <div class="box" style="background-color: red;
+    width: 50px;
+    height: 50px;"></div>
 </div>
 
 <div align="center">
