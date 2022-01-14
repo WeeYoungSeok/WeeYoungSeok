@@ -21,15 +21,9 @@ Here are some ideas to get you started:
     justify-content: space-between;
     align-items: center;
     height:100vh;">
-  <div class="box" style="background-color: red;
-    width: 50px;
-    height: 50px;"></div>
-  <div class="box" style="background-color: red;
-    width: 50px;
-    height: 50px;"></div>
-  <div class="box" style="background-color: red;
-    width: 50px;
-    height: 50px;"></div>
+  <div class="box">dd</div>
+  <div class="box">dd</div>
+  <div class="box">dd</div>
 </div>
 
 <div align="center">
