@@ -19,10 +19,17 @@ Here are some ideas to get you started:
 
 <div style="display: flex;">
   <div>
+  dd
+  </div>
+  <div>
+  dd
+  </div>
+</div>
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok"/>
   </div>
   <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight"/>
   </div>
-</div>
 
