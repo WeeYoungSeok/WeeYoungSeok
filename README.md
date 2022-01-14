@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align=left>
-  <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok" width=49% height=200/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" width=49% height=200/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok" width=100 height=200/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" width=100 height=200/>
 </div>
 
