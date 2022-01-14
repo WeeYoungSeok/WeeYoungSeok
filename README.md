@@ -21,12 +21,10 @@ Here are some ideas to get you started:
     height:220px;
     overflow:hidden;
     margin:0 auto;">
-  <div style="display: flex; align-items: flex-start;">
     <img style="width:100%;
     height:100%;
     object-fit:cover;" src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok"/>
     <img style="width:100%;
     height:100%;
     object-fit:cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight"/>
-  </div>
 </div>
