@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-<div align="center">
+<div align="left">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" height=195/>
