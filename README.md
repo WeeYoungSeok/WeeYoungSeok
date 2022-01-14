@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <div align="left" style="display:flex;">
   <div style="width : 50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok" width="45%"/>
   </div>
   <div style="width : 50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" width="45%"/>
   </div>
 </div>
