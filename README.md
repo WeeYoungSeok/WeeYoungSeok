@@ -26,7 +26,7 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&theme=radical" height=100%/>
     </td>     
     <td align=left width=50% height=100%>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" height=100%/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" height=80%/>
     </td>   
   </tr> 
 </table>
