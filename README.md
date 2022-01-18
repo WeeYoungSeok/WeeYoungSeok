@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <table width=100%> 
   <tr>     
-    <td align=left width=50% height=100%> 
+    <td align=right width=50% height=100%> 
       <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&theme=radical" height=100%/>
     </td>     
     <td align=left width=50% height=100%>
