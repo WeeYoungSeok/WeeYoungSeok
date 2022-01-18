@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <br/>
 
 
-<div align="left" height=150>
-  <div style="display: flex;" height=150>
-    <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok" height=150 width=300/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" height=150 width=300/>
+<div align="left" height=100>
+  <div style="display: flex;" height=100>
+    <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok" height=100 width=300/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" height=100 width=300/>
   </div>
 </div>
 
