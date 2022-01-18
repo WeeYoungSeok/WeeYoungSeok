@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=WeeYoungSeok)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=WeeYoungSeok){: width="100" height="100"}  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight){: width="100" height="100"}
 
