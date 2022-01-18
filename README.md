@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 ![WeeYoungSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight)
 
+<table width=100%> 
+  <tr>     
+    <td width=50%> 왼쪽 객체 코드 
+    </td>     
+    <td width=50%> 오른쪽 객체 코드 
+    </td>   
+  </tr> 
+</table>
