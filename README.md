@@ -19,10 +19,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&border_radius=0&theme=radical&bg_color=fbfffc&title_color=000000&text_color=000000" height="170px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungeun-p&layout=compact&title_color=000000&text_color=000000&border_radius=0&bg_color=fbfffc)](https://github.com/anuraghazra/github-readme-stats" height="170px"/>
 </div>
-<br/>
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-<br/>
