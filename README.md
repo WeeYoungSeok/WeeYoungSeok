@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <table width=100%> 
   <tr>     
     <td width=50% height=100%> 
-      <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&theme=radical"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&theme=radical" height=100%/>
     </td>     
     <td width=50% height=100%>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" height=100%/>
     </td>   
   </tr> 
 </table>
