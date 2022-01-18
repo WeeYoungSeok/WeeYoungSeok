@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <br/>
 
 ![WeeYoungSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight)
