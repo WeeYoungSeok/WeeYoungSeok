@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok" width=45%/>
+    <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok" height=200 width=45%/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight" width=45%/>
   </div>
 </div>
