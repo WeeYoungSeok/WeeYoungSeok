@@ -42,3 +42,7 @@ Here are some ideas to get you started:
   </div>
 </div>
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=WeeYoungSeok)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight)
+
