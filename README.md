@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 
 <table width=100%> 
   <tr>     
-    <td width=50%> ![WeeYoungSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&theme=radical)
+    <td width=50%> 
+      <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&theme=radical"/>
     </td>     
-    <td width=50%> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight)
+    <td width=50%>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight"/>
     </td>   
   </tr> 
 </table>
