@@ -18,15 +18,23 @@ Here are some ideas to get you started:
 <br/>
 
 <div class="item-wrap" style="display: flex; /* flex container를 만들어주는 속성 */
-   justify-content: space-between;">
+   justify-content: space-between; height: 200px; text-align: center;
+  width: 50%;
+  margin: 0 5px;">
   <div class="items" style="display: flex; /* flex container를 만들어주는 속성 */
-   justify-content: space-between;">
-    <div class="item left"> 
+   justify-content: space-between; height: 200px; text-align: center;
+  width: 50%;
+  margin: 0 5px;">
+    <div class="item left" style="text-align: center;
+  width: 50%;
+  margin: 0 5px;"> 
       <div class="inner">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight"/>
       </div>
     </div>
-    <div class="item right">
+    <div class="item right" style="text-align: center;
+  width: 50%;
+  margin: 0 5px;">
       <div class="inner">
         <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok"/>
       </div>
