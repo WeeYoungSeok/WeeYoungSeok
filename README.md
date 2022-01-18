@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 
 ![WeeYoungSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=tokyonight)
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&border_radius=0&title_color=97b498&text_color=725b53&icon_color=c8e6c9&bg_color=fbfffc" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&title_color=97b498&text_color=725b53&border_radius=0&bg_color=fbfffc)](https://github.com/anuraghazra/github-readme-stats" height="170px"/>
+</div>
