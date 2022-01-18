@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <br/>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&border_radius=0&theme=radical&bg_color=fbfffc" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&border_radius=0&theme=radical&bg_color=fbfffc&title_color=black" height="170px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungeun-p&layout=compact&border_radius=0&bg_color=fbfffc)](https://github.com/anuraghazra/github-readme-stats" height="170px"/>
 </div>
