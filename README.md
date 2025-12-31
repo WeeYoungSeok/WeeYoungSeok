@@ -32,8 +32,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&theme=radical" height="150" alt="WeeYoungSeok's Github Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=radical" height="150" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=weeyoungseok&show_icons=true&theme=radical" height="150" alt="WeeYoungSeok's Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weeyoungseok&layout=compact&theme=radical" height="150" alt="Top Langs"/>
 </div>
 
 <br>
