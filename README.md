@@ -32,8 +32,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats-alx7.vercel.app/api?username=weeyoungseok&show_icons=true" />
-<img height="180em" src="https://github-readme-stats-alx7.vercel.app/api/top-langs/?username=weeyoungseok&layout=compact&hide=jupyter%20notebook" />
+<img height="180em" src="https://github-readme-stats-zq7d.vercel.app/api?username=weeyoungseok&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-zq7d.vercel.app/api/top-langs/?username=weeyoungseok&layout=compact&hide=jupyter%20notebook" />
 </p>
 
 <br>
