@@ -1,32 +1,42 @@
-### 👋Y_s
-#
-<!--
-**WeeYoungSeok/WeeYoungSeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm YoungSeok Wee!
 
-Here are some ideas to get you started:
+### 🚀 Aspiring Backend Developer
+> **"매일 성장하는 개발자, 위영석입니다."**
+> <br> 기본에 충실하며, 효율적인 코드와 안정적인 서비스를 고민합니다.
+> <br> 현재 **Java & Spring Boot** 기반의 백엔드 개발자로 구직 중입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWeeYoungSeok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 
-### Platforms & Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![oracle](https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+## 🛠️ Tech Stack
 
-#
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&border_radius=0&theme=radical&bg_color=fbfffc&title_color=000000&text_color=000000" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungeun-p&layout=compact&title_color=000000&text_color=000000&border_radius=0&bg_color=fbfffc)](https://github.com/anuraghazra/github-readme-stats" height="170px"/>
+### ☕ Languages
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+### 🍃 Frameworks & Libraries
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+
+### 💾 Database
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
+### ⚙️ Tools & IDE
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+
+<br>
+
+## 🔥 Algorithm & Problem Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dndrldzk)](https://solved.ac/dndrldzk)
+- **Baekjoon Online Judge:** Gold 3 🥇
+- **Repository:** [Algorithm Study 바로가기](https://github.com/WeeYoungSeok/algorithm-study)
+
+<br>
+
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WeeYoungSeok&show_icons=true&theme=radical" height="150" alt="WeeYoungSeok's Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeYoungSeok&layout=compact&theme=radical" height="150" alt="Top Langs"/>
 </div>
 
+<br>
+
+## 📫 Contact
+- **Email:** (dndrlzk@gmail.com)
